@@ -1,0 +1,24 @@
+# Core Jupyter support
+notebook>=7.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Machine learning / NLP
+scikit-learn>=1.3.0
+nltk>=3.8.0
+spacy>=3.7.0
+
+# AI/LLM integration
+openai>=1.0.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Optional: for cleaning notebooks before committing to GitHub
+nbconvert>=7.10.0
+nbformat>=5.10.0
